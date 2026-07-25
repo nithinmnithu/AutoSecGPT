@@ -1,0 +1,9 @@
+# Core libraries referenced in the project report (Chapter 4 - Software Requirement Specifications).
+# Versions are not pinned here since exact versions weren't specified in the report —
+# update these to match your actual development environment before pushing.
+
+streamlit
+pandas
+openai
+pyvis
+pdfkit
